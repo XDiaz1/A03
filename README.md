@@ -42,7 +42,7 @@ Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 #
 8) **Merge Conflict** - happens when two people make changes to the same file on GitHub—a common occurrence when you’re working with other developers.
 #
-9)**Push** - uploading to a GitHub repository.
+9) **Push** - uploading to a GitHub repository.
 #
 10) **Pull** - a request that will let others know about the changes that you are pushing to a branch in a particular repository.
 #
